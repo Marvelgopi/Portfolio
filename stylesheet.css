@@ -392,3 +392,22 @@ footer a:hover {
   animation: showText 0.5 1s linear forwards;
   opacity: 0;
 }
+
+@media(max-width:800px){
+  .home{
+    padding: 10px !important;
+  }
+  .projects{
+    padding: 10px !important;
+  }
+  .aboutme{
+    padding: 10px !important;
+  }
+
+  .myskill{
+    padding: 10px  !important;
+  }
+  .contact{
+    padding: 1px !important;
+  }
+}
