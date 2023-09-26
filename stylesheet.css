@@ -397,6 +397,10 @@ footer a:hover {
   .home{
     padding: 10px !important;
   }
+  .formbg{
+    padding: 20px !important;
+  }
+  
   .projects{
     padding: 10px !important;
   }
