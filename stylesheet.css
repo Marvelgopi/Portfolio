@@ -167,7 +167,7 @@ font-family: 'Roboto', sans-serif;
 
 }
 .formbg{
-    padding-left: 50px;
+    padding: 50px !important;
     color: azure;
     background-color: black;
     border-radius: 25px;
